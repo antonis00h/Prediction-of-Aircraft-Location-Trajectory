@@ -1,5 +1,4 @@
-# Aircraft-trajectory-prediction-adsb
-Thesis on the Prediction of Aircraft Location/Trajectory
+# Thesis on the Prediction of Aircraft Location/Trajectory
 
 MSc thesis repository for **Thesis on the Prediction of Aircraft Location/Trajectory**.
 
